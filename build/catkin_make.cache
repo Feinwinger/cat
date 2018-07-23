@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/hao/roscat/devel -DCMAKE_INSTALL_PREFIX=/home/hao/roscat/install -G Unix Makefiles
